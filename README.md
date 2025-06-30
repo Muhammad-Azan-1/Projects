@@ -1,1 +1,1 @@
-# Projects
+# Javascript practice projects
