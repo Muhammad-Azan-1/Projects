@@ -232,6 +232,16 @@ p{
     }
 }
 }
+
+
+@media  (max-width:400px) {
+     .todo div:nth-of-type(2){
+    height: 42px;
+        button{
+            padding: 10px 25px;
+        }
+     }
+}
 /* 
 important thing noticed in this flex 
 
